@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_pickers/pickers.dart';
 import 'package:flutter_pickers/style/picker_style.dart';
-import 'package:zkform/Form/Input.dart';
+import 'package:zkform/components/Form/Input.dart';
 
 import 'index.dart';
 

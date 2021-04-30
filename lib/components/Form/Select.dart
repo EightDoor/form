@@ -2,8 +2,8 @@ import 'package:flustars/flustars.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_pickers/time_picker/model/date_mode.dart';
 import 'package:flutter_pickers/time_picker/model/pduration.dart';
-import 'package:zkform/Form/Time.dart';
-import 'package:zkform/Tapped.dart';
+import 'package:zkform/components/Form/Time.dart';
+import 'package:zkform/components/Tapped.dart';
 import 'package:zkform/models/Form/input.dart';
 import 'package:zkform/tool/show_picker_utils.dart';
 

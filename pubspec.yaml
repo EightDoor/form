@@ -2,7 +2,6 @@ name: zkform
 description: 通用表单
 version: 0.0.1
 homepage: http://www.github.com/EightDoor
-
 environment:
   sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.17.0"

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:zkform/Form/Radio.dart';
-import 'package:zkform/Form/Select.dart';
-import 'package:zkform/Svg.dart';
+import 'package:zkform/components/Form/Radio.dart';
+import 'package:zkform/components/Form/Select.dart';
+import 'package:zkform/components/Svg.dart';
 import 'package:zkform/models/Form/form.dart';
 import 'package:zkform/models/Form/input.dart';
 
